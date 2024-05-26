@@ -4,7 +4,7 @@ import { HashLink } from "react-router-hash-link/dist/react-router-hash-link.cjs
 import { TypeAnimation } from "react-type-animation";
 const Hero = () => {
   const textSequence = [
-    { text: "Hi, I am a Muhammad Hamza"},
+    { text: "Hi, I am a Usman"},
     { text: "Hi, I am a Product Engineer"},
     { text: "Hi, I am a Full-stack Developer"},
     { text: "Hi, I am a Frontend Architect"},

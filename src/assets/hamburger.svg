@@ -1,0 +1,10 @@
+ <svg viewBox="0 0 24 24" width="80" height="80" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <!-- Top Line -->
+        <path d="M2 7h20"  stroke="#72e2ae" stroke-width="3.5"/>
+
+        <!-- Middle Line -->
+        <path d="M2 12h16"  stroke="#72e2ae" stroke-width="3"/>
+
+        <!-- Bottom Line -->
+        <path d="M2 17h12" stroke="#72e2ae" stroke-width="2"/>
+    </svg>

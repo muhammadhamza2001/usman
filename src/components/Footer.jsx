@@ -12,16 +12,16 @@ const Footer = () => {
       link: "https://www.linkedin.com/in/muhammad-hamza-ckt/",
       icon: linkedin,
     },
-    {
-      id: "02",
-      link: "https://github.com/muhammadhamza2001",
-      icon: github,
-    },
-    {
-      id: "03",
-      link: "mailto:muhammadhamzackt@gmail.com",
-      icon: mail,
-    },
+    // {
+    //   id: "02",
+    //   link: "https://github.com/muhammadhamza2001",
+    //   icon: github,
+    // },
+    // {
+    //   id: "03",
+    //   link: "mailto:muhammadhamzackt@gmail.com",
+    //   icon: mail,
+    // },
    
   ];
   return (

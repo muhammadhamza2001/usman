@@ -56,7 +56,7 @@ function NavigationBar() {
       >
         <Container>
           <Navbar.Brand as={HashLink} to="#">
-            Usman
+            Usman Ch
           </Navbar.Brand>
           <Navbar.Toggle
             aria-controls="navbarScroll"

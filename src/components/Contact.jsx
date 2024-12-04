@@ -24,7 +24,7 @@ const Contact = () => {
         </svg>
       ),
       title: "Contact on phone",
-      content: <a href="tel:+923211688108">+92 321-1688-108</a>,
+      content: <a href="tel:+12067418440">+1 (206) 741-8440</a>,
     },
     
     {
@@ -46,8 +46,8 @@ const Contact = () => {
       ),
       title: "Contact on mail",
       content: (
-        <a href="mailto:muhammadhamzackt@gmail.com">
-          muhammadhamzackt@gmail.com
+        <a href="mailto:usmanchoudhary2882@gmail.com">
+          usmanchoudhary2882@gmail.com
         </a>
       ),
     },
@@ -64,7 +64,7 @@ const Contact = () => {
         </svg>
       ),
       title: "Location",
-      content: "Lahore, Pakistan",
+      content: "Seattle, United States",
     },
   ];
 

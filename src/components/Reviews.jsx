@@ -17,7 +17,7 @@ const Reviews = () => {
       position: "Co-Founder at Optimize.Ad",
       rating: 5,
       content:
-        "Working with Hamza was an absolute pleasure. Their attention to detail and expertise in web development truly elevated our project. I would highly recommend them to anyone looking for a dedicated and talented developer.",
+        "Working with Usman was an absolute pleasure. Their attention to detail and expertise in web development truly elevated our project. I would highly recommend them to anyone looking for a dedicated and talented developer.",
     },
     {
       image: clientimage,
@@ -25,7 +25,7 @@ const Reviews = () => {
       position: "SDS CEO",
       rating: 5,
       content:
-        "Hamza is not just a skilled developer but also a great communicator. He took the time to understand our requirements and delivered a solution that exceeded our expectations. I look forward to collaborating with him again in the future.",
+        "Usman is not just a skilled developer but also a great communicator. He took the time to understand our requirements and delivered a solution that exceeded our expectations. I look forward to collaborating with him again in the future.",
     },
     {
       image: girl,
@@ -33,7 +33,7 @@ const Reviews = () => {
       position: "AlignerBase",
       rating: 5,
       content:
-        "Hamza is a top-notch developer who brings creativity and expertise to the table. They have a strong grasp of modern technologies and best practices, which reflects in the quality of their work. It was a pleasure working with Hamza, and I would highly recommend.",
+        "Usman is a top-notch developer who brings creativity and expertise to the table. They have a strong grasp of modern technologies and best practices, which reflects in the quality of their work. It was a pleasure working with Usman, and I would highly recommend.",
     },
     {
       image: arjun,
@@ -41,7 +41,7 @@ const Reviews = () => {
       position: "Chief technology officier Ihub",
       rating: 5,
       content:
-        "Hamza is not only a skilled developer but also a great team player. They actively contribute ideas and solutions, making them a trusted member of any project. I highly recommend Hamza for their professionalism and technical expertise.",
+        "Usman is not only a skilled developer but also a great team player. They actively contribute ideas and solutions, making them a trusted member of any project. I highly recommend Usman for their professionalism and technical expertise.",
     },
   ];
   const settings = {
